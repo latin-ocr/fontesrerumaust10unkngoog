@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./fontesrerumaust10unkngoog_0014.png"; bbox 0 0 3242 5350; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 410 669 1093 805">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 410 669 1093 805">
+     <span class='ocr_line' id='line_1_1' title="bbox 410 669 1093 805; baseline -0.003 -2"><span class='ocrx_word' id='word_1_1' title='bbox 410 669 1093 805; x_wconf 81' lang='lat' dir='ltr'>URKUNDENBUOH</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 106 1383 1375 1558">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 106 1383 1375 1558">
+     <span class='ocr_line' id='line_1_2' title="bbox 106 1383 1375 1558; baseline 0.001 -33"><span class='ocrx_word' id='word_1_2' title='bbox 106 1383 484 1529; x_wconf 87' lang='lat' dir='ltr'>STIFTES</span> <span class='ocrx_word' id='word_1_3' title='bbox 536 1384 1375 1558; x_wconf 67' lang='lat' dir='ltr'>‚KLOSTERNEUBURG</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 418 3149 1074 3248">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 418 3149 1074 3248">
+     <span class='ocr_line' id='line_1_3' title="bbox 418 3149 1074 3248; baseline 0.003 -37"><span class='ocrx_word' id='word_1_4' title='bbox 418 3151 479 3211; x_wconf 71' lang='grc' dir='ltr'>υι</span> <span class='ocrx_word' id='word_1_5' title='bbox 515 3149 832 3212; x_wconf 75' lang='lat' dir='ltr'>mum</span> <span class='ocrx_word' id='word_1_6' title='bbox 859 3150 1074 3248; x_wconf 68' lang='lat' dir='ltr'>mm,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 515 3270 978 3311">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 515 3270 978 3311">
+     <span class='ocr_line' id='line_1_4' title="bbox 515 3270 978 3311; baseline -0.002 -2"><span class='ocrx_word' id='word_1_7' title='bbox 515 3270 665 3309; x_wconf 62' lang='lat' dir='ltr'>(mom</span> <span class='ocrx_word' id='word_1_8' title='bbox 677 3271 727 3309; x_wconf 69' lang='lat' dir='ltr'>VON</span> <span class='ocrx_word' id='word_1_9' title='bbox 738 3271 978 3311; x_wconf 67' lang='lat' dir='ltr'><strong>mmmmm.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1626 5350">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1626 5350">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1626 5350; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1626 5350; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
